@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"strings"
 
-	interactivelist "github.com/digvijay-tech/interactive-list"
+	interactivelist "github.com/digvijay-tech/interactive_list"
 )
 
 type hero struct {

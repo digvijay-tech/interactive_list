@@ -6,7 +6,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/digvijay-tech/interactive-list/utilities"
+	"github.com/digvijay-tech/interactive_list/utilities"
 )
 
 func SimpleSelector(items []string, title, description string) (selectedItem string) {

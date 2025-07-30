@@ -1,4 +1,4 @@
-module github.com/digvijay-tech/interactive-list
+module github.com/digvijay-tech/interactive_list
 
 go 1.24.5
 
